@@ -113,5 +113,5 @@ Pizza Grande com Borda de Catupiry e sabores: Calabresa, Frango, Portuguesa
 ---
 
 <p align="center">
-  Feito com 💜 por Caroline
+  Feito por Caroline
 </p>
