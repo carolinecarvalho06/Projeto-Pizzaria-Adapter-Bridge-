@@ -58,7 +58,7 @@ Responsável por adaptar um sistema externo de sabores:
 ## 🏗️ Estrutura do Projeto
 
 ```bash
-📁 projeto-pizzaria
+📁 20260424_Proj_Pizzaria_Caroline
  ├── pizzaria.js
  └── README.md
 ```
