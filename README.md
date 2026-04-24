@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Este projeto foi desenvolvido com o objetivo de aplicar, na prática, conceitos de **Engenharia de Software**, utilizando os padrões de projeto:
+Este projeto foi desenvolvido com o objetivo de aplicar, na prática, conceitos de **Técnicas de Programação**, utilizando os padrões de projeto:
 
 * 🔵 **Bridge**
 * 🟡 **Adapter**
@@ -33,7 +33,7 @@ Demonstrar como padrões de projeto ajudam a:
 
 ## 🧠 Arquitetura do Projeto
 
-### 🔵 Bridge Pattern
+### 🔵 Bridge
 
 Responsável por separar:
 
@@ -44,7 +44,7 @@ Responsável por separar:
 
 ---
 
-### 🟡 Adapter Pattern
+### 🟡 Adapter
 
 Responsável por adaptar um sistema externo de sabores:
 
@@ -60,8 +60,6 @@ Responsável por adaptar um sistema externo de sabores:
 ```bash
 📁 projeto-pizzaria
  ├── pizzaria.js
- ├── Adapter.js
- ├── Bridge.js
  └── README.md
 ```
 
@@ -106,44 +104,11 @@ Pizza Grande com Borda de Catupiry e sabores: Calabresa, Frango, Portuguesa
 
 ---
 
-## 💡 Diferenciais do Projeto
-
-✨ Aplicação prática de padrões de projeto
-✨ Código modular e escalável
-✨ Separação clara de responsabilidades
-✨ Fácil manutenção e extensão
-
----
-
-## 🔮 Possíveis Melhorias
-
-* Interface gráfica (HTML/CSS)
-* API de pedidos
-* Persistência com banco de dados
-* Escolha dinâmica de sabores pelo usuário
-
----
-
 ## 👩‍💻 Autora
 
-**Caroline de Carvalho**
+**Caroline de Carvalho Mendes**
 
-🎓 Estudante de Desenvolvimento de Software
-🎯 Foco em Design e Tecnologia
-💡 Interessada em UI/UX e Front-end
-
----
-
-## 📌 Status do Projeto
-
-🚧 Concluído (versão acadêmica)
-🚀 Em evolução para portfólio
-
----
-
-## ⭐ Inspiração
-
-Este projeto foi desenvolvido como exercício acadêmico para reforçar o uso de **Design Patterns** na prática.
+🎓 Estudante de Desenvolvimento de Software Multiplataforma
 
 ---
 
